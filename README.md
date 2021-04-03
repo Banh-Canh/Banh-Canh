@@ -1,6 +1,10 @@
 
 
 <h1 align="center">Hi there 👋</h1>
+<!--
+<p align="center">
+  <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner" alt="Banh-Canh's github stats"></a>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banh-Canh&langs_count=10&hide=html,javascript" alt="Banh-Canh's github stats"></a>
