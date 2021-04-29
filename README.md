@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banh-Canh&langs_count=10&hide=html,autohotkey,papyrus" alt="Banh-Canh's github stats"></a>
+  <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banh-Canh&langs_count=10&hide=html,scss,autohotkey,papyrus" alt="Banh-Canh's github stats"></a>
 </p>
 
 <p align="center">
