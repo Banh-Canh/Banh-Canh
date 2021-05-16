@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">GitHub</h1>
 
 <p align="center">
   <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
@@ -10,8 +10,18 @@
   <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banh-Canh&langs_count=10&hide=html,css,scss,autohotkey,papyrus" alt="Banh-Canh's github stats"></a>
 </p>
 
+<h1 align="center">DockerHub</h1>
+
 <p align="center">
-  <a href="https://hub.docker.com/u/banhcanh">My Docker Images on DockerHub</a>
+  <a href="https://hub.docker.com/u/banhcanh">https://hub.docker.com/u/banhcanh</a>
+ </p>
+ 
+
+<p align="center">
+  <a href="https://hub.docker.com/r/banhcanh/manga-tagger"><img src="https://img.shields.io/docker/pulls/banhcanh/manga-tagger?label=Manga-Tagger%20Pulls&style=for-the-badge" alt="Banh-Canh's github stats"></a>
+</p>
+<p align="center">
+  <a href="https://hub.docker.com/r/banhcanh/docker-fmd2"><img src="https://img.shields.io/docker/pulls/banhcanh/docker-fmd2?label=Docker-FMD2%20Pulls&style=for-the-badge" alt="Banh-Canh's github stats"></a>
 </p>
 
 <!--
