@@ -17,13 +17,6 @@
  </p>
  
 
-<p align="center">
-  <a href="https://hub.docker.com/r/banhcanh/manga-tagger"><img src="https://img.shields.io/docker/pulls/banhcanh/manga-tagger?label=Manga-Tagger%20Pulls&style=for-the-badge" alt="Banh-Canh's github stats"></a>
-</p>
-<p align="center">
-  <a href="https://hub.docker.com/r/banhcanh/docker-fmd2"><img src="https://img.shields.io/docker/pulls/banhcanh/docker-fmd2?label=Docker-FMD2%20Pulls&style=for-the-badge" alt="Banh-Canh's github stats"></a>
-</p>
-
 <!--
 ### Hi there 👋
 **Banh-Canh/Banh-Canh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
