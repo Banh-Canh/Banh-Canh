@@ -18,8 +18,8 @@
  
 | GitHub | DockerHub | Type | Description |
 |--------|-----------|------|-------------|
-| [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | Basic      | The only tool you'll need to rename and write metadata to your digital manga library. |
-| [docker-fmd2][docker-fmd2-git-lnk]        | [![docker-fmd2-hub-img]][docker-fmd2-hub-lnk]         | Basic      | Dockerized FMD2 (Windows with Wine) using VNC, noVNC and webSocketify to display GUI on a webpage. |
+| [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | python/docker      | The only tool you'll need to rename and write metadata to your digital manga library. |
+| [docker-fmd2][docker-fmd2-git-lnk]        | [![docker-fmd2-hub-img]][docker-fmd2-hub-lnk]         | docker     | Dockerized FMD2 (Windows with Wine) using VNC, noVNC and webSocketify to display GUI on a webpage. |
 
 [mt-git-lnk]: https://github.com/banh-canh/manga-tagger
 [mt-hub-img]: https://img.shields.io/docker/pulls/banhcanh/manga-tagger.svg
