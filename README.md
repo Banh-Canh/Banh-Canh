@@ -35,16 +35,19 @@
 	<a href="https://www.linux.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
 	</a>
+	<a href="https://www.nginx.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+	</a>
 	<a href="https://kubernetes.io" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	</a>
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 	</a>
-  <a href="https://www.oracle.com/cloud/" target="_blank">
+  	<a href="https://www.oracle.com/cloud/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="40" height="40"/>
 	</a>
-  <a href="https://www.python.org/" target="_blank">
+  	<a href="https://www.python.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 	</a>
 </p>
