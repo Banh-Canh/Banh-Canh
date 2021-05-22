@@ -1,10 +1,20 @@
-<a href="https://github.com/Banh-Canh"><h1 align="center">Github</h1></a>
+<h1 align="center">About me</h1>
+
+<p align="center">
+	<a href="https://github.com/Banh-Canh" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="auto" height="60"/>
+	</a>
+	<a href="https://hub.docker.com/u/banhcanh" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="github" width="auto" height="60"/>
+	</a>
+	<a href="https://www.linkedin.com/in/victor-hang/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="github" width="auto" height="60"/>
+	</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
-    
-<a href="https://hub.docker.com/u/banhcanh"><h1 align="center">DockerHub</h1></a>
  
 | GitHub | DockerHub | Type | Description |
 |--------|-----------|------|-------------|
