@@ -16,10 +16,10 @@
   <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
  
-| GitHub | DockerHub | Type | Description |
-|--------|-----------|------|-------------|
-| [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | python/docker      | The only tool you'll need to rename and write metadata to your digital manga library. |
-| [docker-fmd2][docker-fmd2-git-lnk]        | [![docker-fmd2-hub-img]][docker-fmd2-hub-lnk]         | docker     | Dockerized FMD2 (Windows with Wine) using VNC, noVNC and webSocketify to display GUI on a webpage. |
+| GitHub | DockerHub | Description |
+|--------|-----------|-------------|
+| [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | The only tool you'll need to rename and write metadata to your digital manga library. |
+| [docker-fmd2][docker-fmd2-git-lnk]        | [![docker-fmd2-hub-img]][docker-fmd2-hub-lnk]         | Dockerized FMD2 (Windows with Wine) using VNC, noVNC and webSocketify to display GUI on a webpage. |
 
 <h1 align="center">Languages and Tools</h1>
   
