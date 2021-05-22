@@ -1,18 +1,54 @@
-
-
-<a href="https://github.com/Banh-Canh"><h1 align="center">GitHub</h1></a>
+<a href="https://github.com/Banh-Canh"><h1 align="center">Github</h1></a>
 
 <p align="center">
   <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
-
-<a href=https://hub.docker.com/u/banhcanh><h1 align="center">DockerHub</h1></a>
+    
+<a href="https://hub.docker.com/u/banhcanh"><h1 align="center">DockerHub</h1></a>
  
 | GitHub | DockerHub | Type | Description |
 |--------|-----------|------|-------------|
 | [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | python/docker      | The only tool you'll need to rename and write metadata to your digital manga library. |
 | [docker-fmd2][docker-fmd2-git-lnk]        | [![docker-fmd2-hub-img]][docker-fmd2-hub-lnk]         | docker     | Dockerized FMD2 (Windows with Wine) using VNC, noVNC and webSocketify to display GUI on a webpage. |
 
+<h1 align="center">Languages and Tools</h1>
+  
+<p align="center">
+	<a href="https://www.ansible.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+	</a>
+	<a href="https://github.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
+	</a>
+	<a href="https://about.gitlab.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+	</a>
+	<a href="https://www.jenkins.io" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+	</a>
+	<a href="https://www.linux.org/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+	</a>
+	<a href="https://kubernetes.io" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+	</a>
+	<a href="https://aws.amazon.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+	</a>
+  <a href="https://www.oracle.com/cloud/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="40" height="40"/>
+	</a>
+  <a href="https://www.python.org/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+	</a>
+</p>
+                                              
 [mt-git-lnk]: https://github.com/banh-canh/manga-tagger
 [mt-hub-img]: https://img.shields.io/docker/pulls/banhcanh/manga-tagger.svg
 [mt-hub-lnk]: https://hub.docker.com/r/banhcanh/manga-tagger
