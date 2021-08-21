@@ -16,6 +16,10 @@
   <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
  
+<p align="center">
+  <a href="https://archlinux.org"><img src="images/archporn000.png" alt="BTW I use Arch"></a>
+</p>
+	  
 | GitHub | DockerHub | Description |
 |--------|-----------|-------------|
 | [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | The only tool you'll need to rename and write metadata to your digital manga library. |
@@ -51,6 +55,9 @@
 	<a href="https://kubernetes.io" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 	</a>
+	<a href="https://kustomize.io" target="_blank">
+		<img src="images/kustomizeporn000.png" alt="kustomize" width="40" height="40"/>
+	</a>
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 	</a>
@@ -60,6 +67,16 @@
   	<a href="https://www.python.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 	</a>
+	<a href="https://github.com/argoproj/argo-cd" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
+	</a>
+	<a href="https://www.keycloak.org" target="_blank">
+		<img src="images/keycloakporn000.svg" alt="keycloak" width="40" height="40"/>
+	</a>
+	<a href="https://grafana.com" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+	</a>
+	
 </p>
                                               
 [mt-git-lnk]: https://github.com/banh-canh/manga-tagger
