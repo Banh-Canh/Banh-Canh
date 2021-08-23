@@ -76,6 +76,9 @@
 	<a href="https://grafana.com" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 	</a>
+	<a href="https://www.vaultproject.io" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/>
+	</a>
 	
 </p>
                                               
