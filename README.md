@@ -15,7 +15,18 @@
 <p align="center">
   <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
- 
+
+<p align="center">
+  My first contribution ever:
+  <a href="https://github.com/hrydgard/ppsspp/pull/14332">https://github.com/hrydgard/ppsspp/pull/14332</a>
+</p>
+
+<p align="center">
+  My other projects:
+  </br><a href="https://github.com/TKVH-Apps">https://github.com/TKVH-Apps</a>
+  </br><a href="https://github.com/TKVH-Infra">https://github.com/TKVH-Infra</a>
+</p>
+	  
 <p align="center">
   <a href="https://archlinux.org"><img src="images/archporn000.png" alt="BTW I use Arch"></a>
 </p>
