@@ -90,6 +90,12 @@
 	<a href="https://www.vaultproject.io" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/>
 	</a>
+	<a href="https://www.terraform.io" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+	</a>
+	<a href="https://www.elastic.co/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/>
+	</a>
 	
 </p>
                                               
