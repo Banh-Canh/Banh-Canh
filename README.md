@@ -15,7 +15,8 @@
 <p align="center">
   <a href="https://www.credly.com/badges/8d12b607-00a4-4046-8c9c-5bf7bcbc0ef7/public_url"><img width="200px" src="images/cka-certified-kubernetes-administrator.png" alt="CKA"></a><a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banh-canh" alt="banh-canh" /></a> </p>	  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banh-canh" alt="banh-canh" /></a> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Banh-Canh&" alt="banh-canh" /></p>
 <p align="center">
   My first contribution ever:
   <a href="https://github.com/hrydgard/ppsspp/pull/14332">https://github.com/hrydgard/ppsspp/pull/14332</a>
