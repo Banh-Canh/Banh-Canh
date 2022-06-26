@@ -97,6 +97,9 @@
 	<a href="https://www.elastic.co/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/>
 	</a>
+	<a href="https://thanos.io/" target="_blank">
+		<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/>
+	</a>
 	
 </p>
                                               
