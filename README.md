@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </p>
 
-## Stats
+## 📊 Stats
 <p align="left">
  <a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
 </p>
