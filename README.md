@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Victor+%F0%9F%99%8B;French+SRE+%F0%9F%87%AB%F0%9F%87%B7;Cyberpunk+Fan+%F0%9F%A4%96%F0%9F%8C%83;K-ON!+devot+%F0%9F%99%8F%F0%9F%95%AF%EF%B8%8F%F0%9F%8C%9F)](https://git.io/typing-svg)
 
+<img src="images/wakeup.webp" style="height: 25vh">
+
 ## 🔍 About me:
 
 - 💼 Site Reliability Engineer at [S3NS](https://www.s3ns.io).
