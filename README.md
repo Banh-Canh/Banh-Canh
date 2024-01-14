@@ -1,107 +1,49 @@
-<h1 align="center">About me</h1>
+# "It's The Code You Live By That Defines Who You Are."
 
-<p align="center">
-	<a href="https://github.com/Banh-Canh" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="auto" height="60"/>
-	</a>
-	<a href="https://hub.docker.com/u/banhcanh" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="github" width="auto" height="60"/>
-	</a>
-	<a href="https://www.linkedin.com/in/victor-hang/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="github" width="auto" height="60"/>
-	</a>
+[![Github Badge](https://img.shields.io/badge/BanhCanh-333?style=for-the-badge&logo=github&logoColor=white&link=https://www.linkedin.com/in/victor-hang/)](https://github.com/Banh-Canh) [![DockerHub Badge](https://img.shields.io/badge/Banhcanh-2496ED?style=for-the-badge&logo=docker&logoColor=white&link=https://hub.docker.com/u/banhcanh)](https://hub.docker.com/u/banhcanh) [![Linkedin Badge](https://img.shields.io/badge/Victor_Hang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hang/)](https://www.linkedin.com/in/victor-hang/) [![Discord Badge](https://img.shields.io/badge/VictorTK-7289DA?style=for-the-badge&logo=Discord&logoColor=white)]() [![Instagram Badge](https://img.shields.io/badge/vtk_hg-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vtk_hg/)](https://www.instagram.com/vtk_hg/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Victor+%F0%9F%99%8B;French+SRE+%F0%9F%87%AB%F0%9F%87%B7;Cyberpunk+Fan+%F0%9F%A4%96%F0%9F%8C%83;K-ON!+devot+%F0%9F%99%8F%F0%9F%95%AF%EF%B8%8F%F0%9F%8C%9F)](https://git.io/typing-svg)
+
+## 🔍 About me:
+
+- 💼 Site Reliability Engineer at [S3NS](https://www.s3ns.io).
+- 💪 My first contribution: [PPSSPP](https://github.com/hrydgard/ppsspp/pull/14332).
+- 🧠 I'm learning golang.
+- 🙈 I like cute things.
+- 🎮 Cyberpunk 2077 fanatic.
+
+## 🚀 Main Skills:
+
+#### - Tools:
+<p align=left>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white">
+<img src="https://img.shields.io/badge/FluxCD-516BAA?style=for-the-badge&logo=fluxcd&logoColor=white">
 </p>
 
-<p align="center">
-  <a href="https://www.credly.com/badges/8d12b607-00a4-4046-8c9c-5bf7bcbc0ef7/public_url"><img width="200px" src="images/cka-certified-kubernetes-administrator.png" alt="CKA"></a><a href="https://github.com/Banh-Canh"><img src=https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats"></a>
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banh-canh" alt="banh-canh" /></a> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Banh-Canh&" alt="banh-canh" /></p>
-<p align="center">
-  My first contribution ever:
-  <a href="https://github.com/hrydgard/ppsspp/pull/14332">https://github.com/hrydgard/ppsspp/pull/14332</a>
+#### - Platforms:
+<p align=left>
+<img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Kubevirt-00AAB2?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-<p align="center">
-  My other projects:
-  </br><a href="https://github.com/TKVH-Apps">https://github.com/TKVH-Apps</a>
-  </br><a href="https://github.com/TKVH-Infra">https://github.com/TKVH-Infra</a>
+#### - Other:
+<p align=left>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-E97135?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 </p>
-	  
-<p align="center">
-  <a href="https://archlinux.org"><img src="images/archporn000.png" alt="BTW I use Arch"></a>
-</p>
+
+## 🧑‍💻 My Popular Projects:
 	  
 | GitHub | DockerHub | Description |
 |--------|-----------|-------------|
 | [manga-tagger][mt-git-lnk]        | [![mt-hub-img]][mt-hub-lnk]         | The only tool you'll need to rename and write metadata to your digital manga library. |
 | [docker-fmd2][docker-fmd2-git-lnk]        | [![docker-fmd2-hub-img]][docker-fmd2-hub-lnk]         | Dockerized FMD2 (Windows with Wine) using VNC, noVNC and webSocketify to display GUI on a webpage. |
-
-<h1 align="center">Languages and Tools</h1>
-  
-<p align="center">
-	<a href="https://www.ansible.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
-	<a href="https://github.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>
-	</a>
-	<a href="https://about.gitlab.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
-	</a>
-	<a href="https://www.jenkins.io" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-	</a>
-	<a href="https://www.docker.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-	</a>
-	<a href="https://www.linux.org/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-	</a>
-	<a href="https://www.nginx.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
-	</a>
-	<a href="https://kubernetes.io" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-	</a>
-	<a href="https://kustomize.io" target="_blank">
-		<img src="images/kustomizeporn000.png" alt="kustomize" width="40" height="40"/>
-	</a>
-	<a href="https://aws.amazon.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-	</a>
-  	<a href="https://www.oracle.com/cloud/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle cloud" width="40" height="40"/>
-	</a>
-  	<a href="https://www.python.org/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-	</a>
-	<a href="https://github.com/argoproj/argo-cd" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
-	</a>
-	<a href="https://www.keycloak.org" target="_blank">
-		<img src="images/keycloakporn000.svg" alt="keycloak" width="40" height="40"/>
-	</a>
-	<a href="https://grafana.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-	</a>
-	<a href="https://www.vaultproject.io" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="vault" width="40" height="40"/>
-	</a>
-	<a href="https://www.terraform.io" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-	</a>
-	<a href="https://www.elastic.co/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/>
-	</a>
-	<a href="https://thanos.io/" target="_blank">
-		<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" alt="thanos" width="40" height="40"/>
-	</a>
-	
-</p>
                                               
 [mt-git-lnk]: https://github.com/banh-canh/manga-tagger
 [mt-hub-img]: https://img.shields.io/docker/pulls/banhcanh/manga-tagger.svg
