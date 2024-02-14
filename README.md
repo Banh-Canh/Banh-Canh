@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Victor+%F0%9F%99%8B;French+SRE+%F0%9F%87%AB%F0%9F%87%B7;Cyberpunk+Fan+%F0%9F%A4%96%F0%9F%8C%83;K-ON!+devot+%F0%9F%99%8F%F0%9F%95%AF%EF%B8%8F%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<img src="images/wakeup.webp" style="height: 25vh">
+<img src="images/wakeup.webp" style="width: 20vw">
 
 ## 🔍 About me:
 
@@ -43,9 +43,9 @@
 
 ## 📊 Stats
 <p align="left">
-  <img src="images/yui.gif" style="height: 5vw" alt="Yui GIF">
-  <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats" style="height: 5vw;"></a>
-  <img src="images/yui-reversed.gif" style="height: 5vw" alt="Yui GIF">
+  <img src="images/yui.gif" style="width: 6vw" alt="Yui GIF">
+  <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats" style="width: 20vw;"></a>
+  <img src="images/yui-reversed.gif" style="width: 6vw" alt="Yui GIF">
   
 </p>
 
