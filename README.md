@@ -48,7 +48,7 @@
   <img src="images/yui-reversed.gif" style="width: 6vw" alt="Yui GIF">
 </p>
 <p align="left">
-   <img src="https://lastfm-recently-played.vercel.app/api?user=victortk&count=3&show_user=header&header_style=compact_stats&loved=true" style="width: 32vw;">
+   <a href="https://www.last.fm/user/victortk"><img src="https://lastfm-recently-played.vercel.app/api?user=victortk&count=3&show_user=header&header_style=compact_stats&loved=true" style="width: 32vw;"></a>
 </p>
 
 
