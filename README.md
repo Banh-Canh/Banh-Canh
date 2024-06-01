@@ -46,7 +46,9 @@
   <img src="images/yui.gif" style="width: 6vw" alt="Yui GIF">
   <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats" style="width: 20vw;"></a>
   <img src="images/yui-reversed.gif" style="width: 6vw" alt="Yui GIF">
-  
+</p>
+<p align="left">
+   <img src="https://lastfm-recently-played.vercel.app/api?user=victortk&count=3&show_user=header&header_style=compact_stats&loved=true" style="width: 32vw;">
 </p>
 
 
