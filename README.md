@@ -43,14 +43,12 @@
 
 ## 📊 Stats
 <p align="left">
-  <img src="images/yui.gif" style="width: 6vw" alt="Yui GIF">
   <a href="https://github.com/Banh-Canh"><img src="https://github-readme-stats.vercel.app/api/?username=Banh-Canh&show_owner&count_private=true" alt="Banh-Canh's github stats" style="width: 20vw;"></a>
-  <img src="images/yui-reversed.gif" style="width: 6vw" alt="Yui GIF">
 </p>
 <p align="left">
-   <a href="https://www.last.fm/user/victortk"><img src="https://lastfm-recently-played.vercel.app/api?user=victortk&count=3&show_user=header&header_style=compact_stats&loved=true" style="width: 32vw;"></a>
+   <a href="https://www.last.fm/user/victortk"><img src="https://lastfm-recently-played.vercel.app/api?user=victortk&count=3&show_user=header&header_style=compact_stats&loved=true" style="width: 20vw;"></a>
 <p align="left">
-   <a href="https://trakt.tv/users/kevvic"><img src="https://gh-cards.pabloferreiro.es/trakt/stats?username=kevvic&theme=default" style="width: 32vw;"></a>
+   <a href="https://trakt.tv/users/kevvic"><img src="https://gh-cards.pabloferreiro.es/trakt/stats?username=kevvic&theme=default" style="width: 20vw;"></a>
 </p>
 
 
