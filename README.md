@@ -49,6 +49,8 @@
 </p>
 <p align="left">
    <a href="https://www.last.fm/user/victortk"><img src="https://lastfm-recently-played.vercel.app/api?user=victortk&count=3&show_user=header&header_style=compact_stats&loved=true" style="width: 32vw;"></a>
+<p align="left">
+   <a href="https://trakt.tv/users/kevvic"><img src="https://gh-cards.pabloferreiro.es/trakt/stats?username=kevvic&theme=default" style="width: 32vw;"></a>
 </p>
 
 
